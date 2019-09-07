@@ -1,0 +1,42 @@
+body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+}
+
+.custom10{
+  text-align: center;
+  font-size: 50px;
+  color: red;
+}
+
+.waypoin{
+	padding: 200px 0;
+	background-color: #0052B8;
+}
+
+.counter{
+	font-size: 40px;
+	color:white;
+}
+
+/**
+ * Text 1
+ */
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+
+/**
+
+
+
+
+
+
